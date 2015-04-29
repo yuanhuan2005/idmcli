@@ -1,0 +1,15 @@
+Install:
+	Windows:
+		1. Enter idmcli folder;
+		2. Execute "idm -i" or "idm --install" to install IDM CLI.
+	Linux:
+		1. Enter idmcli directory;
+		2. Execute "./idm.sh -i" or "./idm.sh --install" to install IDM CLI.
+	
+Uninstall:
+	Windows:
+		1. Enter idmcli folder;
+		2. Execute "idm -u" or "idm --uninstall" to install IDM CLI.
+	Linux:
+		1. Enter idmcli directory;
+		2. Execute "./idm.sh -u" or "./idm.sh --uninstall" to install IDM CLI.
